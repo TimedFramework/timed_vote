@@ -1,11 +1,10 @@
 fx_version 'cerulean'
 game 'common'
 
-name 'vote'
+name 'timed_vote'
 description ''
-author 'Top-Games/Top-Serveurs'
-version '3.0.2'
-url 'https://github.com/Top-Serveurs/cfx-vote-plugin'
+author 'tura'
+version '1.0.0'
 
 
 shared_script 'shared/config.lua'
